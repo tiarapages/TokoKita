@@ -21,9 +21,9 @@ TokoKita/
 ### Cara Menjalankan
 
 ### 1. Build dan jalankan semua container
-\`\`\`bash
+```
 docker-compose up --build
-\`\`\`
+```
 
 ## 2. Pengujian
 
